@@ -6,7 +6,7 @@
 
 
 <h4 align="center">
-	✔ Interface Nubank 🚀 Finalizada  ✔
+	 Interface Nubank ✔ Finalizada  ✔
 </h4>
 
 ### 🛠 Tecnologias
